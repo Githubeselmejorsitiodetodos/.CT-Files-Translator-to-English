@@ -1,5 +1,0 @@
-# .CT-Files-Translator-to-English
-CT File Translator is an automated tool that translates .ct files into English
-PrerequisitesTo prevent execution errors: make sure you have the following:Python 3.x installed on your system.A dedicated folder containing both Translate.py and your .ct file 
-
-when you have that just execute Translate.py and wait until its done when its done it will created a english .CT file in the same folder
